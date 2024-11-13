@@ -16,7 +16,6 @@ When submitting an issue, please use the following format. You can find this tem
 - **About**: Create a report to help us improve
 - **Title**: (Provide a brief, descriptive title here)
 - **Labels**: (Select the relevant labels, if applicable)
-- **Assignees**: (Leave blank if uncertain)
 
 ---
 
@@ -43,13 +42,11 @@ If applicable, add screenshots to help explain your problem.
 #### Desktop
 - **OS**: [e.g., iOS]
 - **Browser**: [e.g., Chrome, Safari]
-- **Version**: [e.g., 22]
 
 #### Smartphone
 - **Device**: [e.g., iPhone6]
 - **OS**: [e.g., iOS8.1]
 - **Browser**: [e.g., stock browser, Safari]
-- **Version**: [e.g., 22]
 
 **Additional Context**  
 Add any other relevant information or context about the problem here.
